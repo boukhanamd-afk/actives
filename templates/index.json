@@ -12,28 +12,21 @@
     "image_with_text_overlay_NpXWQk": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_AwQgri": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_mgggfd": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Activez votre journée et améliorez votre bien-être",
             "heading_tag": "h1"
           }
         },
         "richtext_KfndKW": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Bague anti-stress qui favorise le calme, aide à rester plus active au quotidien <br/>et contribue à améliorer le bien-être général de votre peau<br/><br/></p>"
           }
         }
       },
       "block_order": [
-        "subheading_AwQgri",
         "heading_mgggfd",
         "richtext_KfndKW"
       ],
