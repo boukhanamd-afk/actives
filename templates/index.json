@@ -45,90 +45,77 @@
         "overlay_opacity": 30
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
+    "logo_list_YAeHTX": {
+      "type": "logo-list",
       "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
+        "logo_AeeDhw": {
+          "type": "logo",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "logo": "shopify://shop_images/Marie-Claire-logo-removebg-preview.png",
+            "logo_width": 200,
+            "link": ""
           }
         },
-        "1664424046b00c932c-1": {
-          "type": "item",
+        "logo_EiziYU": {
+          "type": "logo",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "logo": "shopify://shop_images/Le_monde_logo.svg",
+            "logo_width": 200,
+            "link": ""
           }
         },
-        "1664424046b00c932c-2": {
-          "type": "item",
+        "logo_eEri9q": {
+          "type": "logo",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "1664424046b00c932c-3": {
-          "type": "item",
+        "logo_iB3kGA": {
+          "type": "logo",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
+        "logo_DrEMUz": {
+          "type": "logo",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_UKew4C": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
           }
         }
       },
       "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "logo_AeeDhw",
+        "logo_EiziYU",
+        "logo_eEri9q",
+        "logo_iB3kGA",
+        "logo_DrEMUz",
+        "logo_UKew4C"
       ],
+      "name": "Logo list",
       "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "Vu sur :",
         "content": "",
-        "link_url": "",
-        "link_text": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": ""
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "scrolling-text": {
@@ -741,7 +728,7 @@
   },
   "order": [
     "image_with_text_overlay_NpXWQk",
-    "image-link-blocks",
+    "logo_list_YAeHTX",
     "scrolling-text",
     "collection-list",
     "featured-collection",
