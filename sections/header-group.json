@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison gratuite",
+            "url": ""
+          }
+        },
+        "message_Gddb8w": {
+          "type": "message",
+          "settings": {
+            "text": "1 acheté 1 offert",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_Gddb8w"
       ],
       "settings": {
         "enable_sticky": false,
