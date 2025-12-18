@@ -1,1 +1,150 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"vendor","settings":{}},"title":{"type":"title","settings":{}},"badges":{"type":"badges","settings":{}},"price":{"type":"price","settings":{}},"rating":{"type":"rating","settings":{}},"payment_terms":{"type":"payment_terms","settings":{}},"separator":{"type":"separator","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{}},"pickup_availability":{"type":"pickup_availability","settings":{}}},"block_order":["vendor","title","badges","price","rating","payment_terms","separator","description","variant_picker","quantity_selector","buy_buttons"],"settings":{}},"related-products":{"type":"related-products","settings":{}}},"order":["main","related-products"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_w4r4Kj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Customer Review</title>\n  <style>\n    body.unique-body-AzY123 {\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      margin: 0;\n      background: transparent;\n    }\n    .unique-review-container-WsX456 {\n      display: flex;\n      align-items: center;\n      background-color: #deeff9;\n      border-radius: 12px;\n      padding: 16px;\n      font-size: 14px;\n      color: #333;\n      max-width: 600px;\n      width: 100%;\n      margin: 2px 0;\n      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);\n    }\n    .unique-review-image-EdC789 {\n      width: 50px;\n      height: 50px;\n      border-radius: 8px;\n      object-fit: cover;\n      margin-right: 16px;\n    }\n    .unique-review-content-RfV012 {\n      display: flex;\n      flex-direction: column;\n      width: 100%;\n    }\n    .unique-review-author-TgB345 {\n      display: flex;\n      align-items: center;\n      margin-bottom: 8px;\n    }\n    .unique-review-author-name-YhN678 {\n      font-weight: bold;\n      margin-right: 8px;\n    }\n    .unique-review-stars-XyZ789 {\n      display: flex;\n      gap: 2px;\n    }\n    .unique-star-icon-AbC123 {\n      color: #4CAF50;\n      font-size: 16px;\n    }\n    .unique-review-text-KiL234 {\n      font-size: 14px;\n      color: #555;\n      line-height: 1.5;\n    }\n    @media (max-width: 768px) {\n      .unique-review-container-WsX456 {\n        padding: 12px;\n        font-size: 12px;\n      }\n      .unique-review-text-KiL234 {\n        font-size: 12px;\n      }\n      .unique-star-icon-AbC123 {\n        font-size: 14px;\n      }\n    }\n  </style>\n</head>\n<body class=\"unique-body-AzY123\">\n<div class=\"unique-review-container-WsX456\">\n  <img class=\"unique-review-image-EdC789\" src=\"https://i.hizliresim.com/je7b0fg.jpg\" alt=\"Profil Resmi\">\n  <div class=\"unique-review-content-RfV012\">\n    <div class=\"unique-review-author-TgB345\">\n      <span class=\"unique-review-author-name-YhN678\">Gabriel .M</span>\n      <div class=\"unique-review-stars-XyZ789\">\n        <span class=\"unique-star-icon-AbC123\">★</span>\n        <span class=\"unique-star-icon-AbC123\">★</span>\n        <span class=\"unique-star-icon-AbC123\">★</span>\n        <span class=\"unique-star-icon-AbC123\">★</span>\n        <span class=\"unique-star-icon-AbC123\">★</span>\n      </div>\n    </div>\n    <div class=\"unique-review-text-KiL234\">\n      Au début, je l'ai offert à ma mère, et maintenant j'en ai acheté un deuxième pour moi.\n    </div>\n  </div>\n</div>\n</body>\n</html>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "liquid_w4r4Kj",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "separator",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products"
+  ]
+}
