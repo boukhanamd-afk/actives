@@ -149,6 +149,7 @@
       "blocks": {
         "vendor_aJa8Vt": {
           "type": "vendor",
+          "disabled": true,
           "settings": {}
         },
         "title_Cy3fgt": {
