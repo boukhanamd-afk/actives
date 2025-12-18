@@ -60,20 +60,6 @@
     },
     "rich_text_NkmNqi": {
       "type": "rich-text",
-      "blocks": {
-        "heading_e68iD3": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir Somniflora ?",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_e68iD3"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -152,6 +138,12 @@
           "disabled": true,
           "settings": {}
         },
+        "liquid_LnfLVT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Customer Review</title>\n  <style>\n    body.unique-body-AzY123 {\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      margin: 0;\n      background: transparent;\n    }\n    .unique-review-container-WsX456 {\n      display: flex;\n      align-items: center;\n      background-color: #deeff9;\n      border-radius: 12px;\n      padding: 16px;\n      font-size: 14px;\n      color: #333;\n      max-width: 600px;\n      width: 100%;\n      margin: 2px 0;\n      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);\n    }\n    .unique-review-image-EdC789 {\n      width: 50px;\n      height: 50px;\n      border-radius: 8px;\n      object-fit: cover;\n      margin-right: 16px;\n    }\n    .unique-review-content-RfV012 {\n      display: flex;\n      flex-direction: column;\n      width: 100%;\n    }\n    .unique-review-author-TgB345 {\n      display: flex;\n      align-items: center;\n      margin-bottom: 8px;\n    }\n    .unique-review-author-name-YhN678 {\n      font-weight: bold;\n      margin-right: 8px;\n    }\n    .unique-review-stars-XyZ789 {\n      display: flex;\n      gap: 2px;\n    }\n    .unique-star-icon-AbC123 {\n      color: #4CAF50;\n      font-size: 16px;\n    }\n    .unique-review-text-KiL234 {\n      font-size: 14px;\n      color: #555;\n      line-height: 1.5;\n    }\n    @media (max-width: 768px) {\n      .unique-review-container-WsX456 {\n        padding: 12px;\n        font-size: 12px;\n      }\n      .unique-review-text-KiL234 {\n        font-size: 12px;\n      }\n      .unique-star-icon-AbC123 {\n        font-size: 14px;\n      }\n    }\n  </style>\n</head>\n<body class=\"unique-body-AzY123\">\n<div class=\"unique-review-container-WsX456\">\n  <img class=\"unique-review-image-EdC789\" src=\"https://i.hizliresim.com/je7b0fg.jpg\" alt=\"Profil Resmi\">\n  <div class=\"unique-review-content-RfV012\">\n    <div class=\"unique-review-author-TgB345\">\n      <span class=\"unique-review-author-name-YhN678\">Gabriel .M</span>\n      <div class=\"unique-review-stars-XyZ789\">\n        <span class=\"unique-star-icon-AbC123\">★</span>\n        <span class=\"unique-star-icon-AbC123\">★</span>\n        <span class=\"unique-star-icon-AbC123\">★</span>\n        <span class=\"unique-star-icon-AbC123\">★</span>\n        <span class=\"unique-star-icon-AbC123\">★</span>\n      </div>\n    </div>\n    <div class=\"unique-review-text-KiL234\">\n      Au début, je l'ai offert à ma mère, et maintenant j'en ai acheté un deuxième pour moi.\n    </div>\n  </div>\n</div>\n</body>\n</html>"
+          }
+        },
         "title_Cy3fgt": {
           "type": "title",
           "settings": {
@@ -219,6 +211,7 @@
       },
       "block_order": [
         "vendor_aJa8Vt",
+        "liquid_LnfLVT",
         "title_Cy3fgt",
         "badges_gUYKjg",
         "price_teW7Ce",
