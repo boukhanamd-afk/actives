@@ -29,6 +29,12 @@
             "heading_tag": "h2"
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
         "liquid_myw8kg": {
           "type": "liquid",
           "settings": {
@@ -38,12 +44,6 @@
         "badges": {
           "type": "badges",
           "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "rating": {
           "type": "rating",
@@ -98,9 +98,9 @@
         "vendor",
         "liquid_w4r4Kj",
         "title",
+        "price",
         "liquid_myw8kg",
         "badges",
-        "price",
         "rating",
         "payment_terms",
         "separator",
