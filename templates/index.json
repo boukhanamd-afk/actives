@@ -377,6 +377,19 @@
         "overlay_opacity": 21
       }
     },
+    "custom_liquid_tfYXdw": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "Voici un **Custom Liquid** minimal avec uniquement des GIF qui défilent de droite à gauche, sans aucun texte.  \nJ’ai utilisé ton GIF en exemple.\n\n```liquid\n<style>\n  .scrolling-gifs-wrapper {\n    width: 100%;\n    overflow: hidden;\n    padding: 10px 0;\n  }\n\n  .scrolling-gifs-track {\n    display: flex;\n    gap: 16px;\n    width: max-content;                 /* largeur = somme des GIF */\n    animation: scrollGifs 25s linear infinite;\n    align-items: center;\n  }\n\n  .scrolling-gifs-track img {\n    height: 70px;                       /* change la taille ici */\n    width: auto;\n    border-radius: 8px;                 /* enlève ou modifie si tu veux */\n    flex-shrink: 0;\n  }\n\n  @keyframes scrollGifs {\n    0% {\n      transform: translateX(0);\n    }\n    100% {\n      /* on défile la moitié car on duplique le contenu */\n      transform: translateX(-50%);\n    }\n  }\n\n  @media (max-width: 768px) {\n    .scrolling-gifs-track {\n      animation-duration: 18s;          /* un peu plus rapide sur mobile */\n    }\n    .scrolling-gifs-track img {\n      height: 60px;\n    }\n  }\n</style>\n\n<div class=\"scrolling-gifs-wrapper\">\n  <div class=\"scrolling-gifs-track\">\n    {%- comment -%} GIFs originaux {%- endcomment -%}\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 1\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 2\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 3\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 4\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 5\">\n\n    {%- comment -%} Duplication pour défilement infini fluide {%- endcomment -%}\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 1\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 2\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 3\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 4\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/121911-ezgif.com-video-to-gif-converter.gif?v=1766166164\" alt=\"Gif 5\">\n  </div>\n</div>\n```\n\n- Colle ce code dans une section/bloc **Custom Liquid**.\n- Pour ajouter d’autres GIF, ajoute simplement d’autres `<img>` (et duplique-les aussi dans la deuxième moitié).\n- Pour changer la vitesse : modifie `25s` dans `animation: scrollGifs 25s linear infinite;`.",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -440,6 +453,7 @@
     "featured_product_bL3JW9",
     "accordion_content_DzzQ6r",
     "video_Wm37GA",
+    "custom_liquid_tfYXdw",
     "faq"
   ]
 }
