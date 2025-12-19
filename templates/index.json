@@ -425,15 +425,15 @@
         "item_Fi3e3p": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Comment puis-je suivre ma commande ?",
+            "content": "<p>Une fois votre commande expédiée, vous recevez un email avec un <strong>numéro de suivi</strong> pour suivre votre colis en temps réel.</p>"
           }
         },
         "item_e6rbXz": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Comment contacter le service client ?",
+            "content": "<p>Pour toute question, nous sommes disponibles à :<br/>📩 <a><strong>contact@somniflora.com</strong></a></p>"
           }
         }
       },
