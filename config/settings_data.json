@@ -62,7 +62,7 @@
           "button_text": "help",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
-          "greeting_message": ""
+          "greeting_message": "Bonjour ! Alice à votre service 😊"
         }
       }
     }
