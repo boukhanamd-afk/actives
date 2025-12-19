@@ -172,6 +172,12 @@
             "liquid": "<style>\n.rounded-image-container {\n  width: 100%;\n  display: flex;\n  justify-content: center;\n  padding: 1px 0;\n}\n\n.rounded-image {\n  width: 50%;\n  max-width: 50%;\n  height: auto;\n  border-radius: 16px;\n  display: block;\n}\n\n@media (max-width: 768px) {\n  .rounded-image {\n    border-radius: 12px;\n  }\n}\n</style>\n\n<div class=\"rounded-image-container\">\n  <img \n    class=\"rounded-image\" \n    src=\"https://cdn.shopify.com/s/files/1/0924/4740/8513/files/gemini-edited__4_-removebg-preview.png?v=1766098621\" \n    alt=\"Image\"\n    loading=\"lazy\"\n  >\n</div>"
           }
         },
+        "kaching_bundles_app_block_QQCmpi": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "rating_wUVwYU": {
           "type": "rating",
           "settings": {
@@ -188,17 +194,6 @@
             "icon": "none",
             "icon_width": 20,
             "collapse_content": false
-          }
-        },
-        "variant_picker_DJiJTQ": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
           }
         },
         "quantity_selector_dA6LtU": {
@@ -225,10 +220,10 @@
         "price_teW7Ce",
         "liquid_mjjjhi",
         "liquid_mTXxnK",
+        "kaching_bundles_app_block_QQCmpi",
         "rating_wUVwYU",
         "separator_RhaaFt",
         "description_Rkd7iq",
-        "variant_picker_DJiJTQ",
         "quantity_selector_dA6LtU",
         "buy_buttons_FxWThG"
       ],
