@@ -414,12 +414,36 @@
             "title": "Est-ce sans danger ?",
             "content": "<p>Oui. Somniflora utilise des micro-impulsions douces, non invasives et sûres pour un usage quotidien.<br/>Il n’émet ni chaleur excessive, ni courant fort, ni stimulation agressive.</p>"
           }
+        },
+        "item_fBKjAU": {
+          "type": "item",
+          "settings": {
+            "title": "À qui s’adresse Somniflora ?",
+            "content": "<p>Somniflora est destiné aux personnes :</p><ul><li>stressées,<br/></li><li>anxieuses,<br/></li><li>ayant du mal à s’endormir,<br/></li><li>ayant des pensées envahissantes au coucher,<br/></li><li>cherchant une solution naturelle et non médicamenteuse.</li></ul>"
+          }
+        },
+        "item_Fi3e3p": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_e6rbXz": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_fBKjAU",
+        "item_Fi3e3p",
+        "item_e6rbXz"
       ],
       "settings": {
         "full_width": false,
