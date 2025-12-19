@@ -435,6 +435,13 @@
             "title": "Comment contacter le service client ?",
             "content": "<p>Pour toute question, nous sommes disponibles à :<br/>📩 <a><strong>contact@somniflora.com</strong></a></p>"
           }
+        },
+        "item_dHy8Dh": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce compatible avec tous les âges ?",
+            "content": "<p>Adapté aux adultes ainsi qu’aux enfants au tempérament très actif.</p>"
+          }
         }
       },
       "block_order": [
@@ -443,7 +450,8 @@
         "166442457738b23caf-2",
         "item_fBKjAU",
         "item_Fi3e3p",
-        "item_e6rbXz"
+        "item_e6rbXz",
+        "item_dHy8Dh"
       ],
       "settings": {
         "full_width": false,
