@@ -78,7 +78,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo_max_width": 140,
+        "logo": "shopify://shop_images/fffff_1192fd49-2156-43fc-b81e-d815108933a8.png",
+        "logo_max_width": 200,
         "logo_mobile_max_width": 125,
         "menu": "main-menu",
         "sidebar_menu": "",
