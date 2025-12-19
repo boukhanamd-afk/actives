@@ -480,7 +480,7 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Notre service client est disponible 7j/7, temps de réponse moyen : 24h",
+        "subheading": "Notre service client est disponible 7j/7",
         "title": "Une question?",
         "content": "<p>Ecrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
         "text_position": "center",
