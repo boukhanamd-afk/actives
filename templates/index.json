@@ -275,6 +275,65 @@
         "input_text_color": ""
       }
     },
+    "accordion_content_DzzQ6r": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_CGCGYQ": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Qu'est-ce que Somniflora ?",
+            "content": "<p><strong>Somniflora, votre chemin naturel vers le calme et l'équilibre, </strong>est conçu pour vous aider à retrouver la paix intérieure et à apaiser vos pensées, notamment lorsque vous avez du mal à vous détendre ou à trouver le sommeil. Grâce à une technologie inspirée de l'acupression et des thérapies énergétiques, Somniflora offre une solution simple qui renforce votre énergie mentale et vous apporte plus de sérénité, de jour comme de nuit.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "item_CwhWwm": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 2",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        },
+        "item_yAUrAk": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Question 3",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_CGCGYQ",
+        "item_CwhWwm",
+        "item_yAUrAk"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "video_Wm37GA": {
       "type": "video",
       "blocks": {
@@ -368,6 +427,7 @@
     "image-with-text-overlay",
     "before-after-image",
     "featured_product_bL3JW9",
+    "accordion_content_DzzQ6r",
     "video_Wm37GA",
     "faq"
   ]
