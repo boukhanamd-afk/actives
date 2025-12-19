@@ -303,8 +303,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>",
+            "title": "Comment l'utiliser ?",
+            "content": "<p><strong>Conception simple - facile à utiliser</strong></p><p><strong>Chargement</strong> : Assurez-vous qu'il soit complètement chargé (max. 2 heures).</p><p><strong>Démarrage</strong> : Maintenez le bouton d’alimentation enfoncé pendant 5 secondes pour activer l’appareil.</p><p><strong>Positionnement</strong> : Tenez l'appareil sur le point PC8 situé dans la paume de votre main. Pour localiser facilement ce point, fermez légèrement le poing : il se trouve à l’endroit où le bout de votre majeur rejoint la paume.</p><p><strong>Réglage de l'intensité</strong> : Ajustez la force en appuyant sur les boutons « + » ou « - » selon vos besoins et pour un confort optimal.</p><p><strong>Arrêt automatique</strong> : L’appareil s’éteint automatiquement après 20 minutes.</p>",
             "page": ""
           }
         }
