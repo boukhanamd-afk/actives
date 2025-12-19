@@ -213,6 +213,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_VRAdr4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_69750bed-a60f-48c1-880f-6f15165ff23e.png",
+            "alignment": "center",
+            "max_width": 410
+          }
+        },
         "liquid_geWTdx": {
           "type": "liquid",
           "settings": {
@@ -234,6 +242,7 @@
         "description_Rkd7iq",
         "quantity_selector_dA6LtU",
         "buy_buttons_FxWThG",
+        "image_VRAdr4",
         "liquid_geWTdx"
       ],
       "name": "Featured product",
