@@ -307,12 +307,23 @@
             "content": "<p><strong>Conception simple - facile à utiliser</strong></p><p><strong>Chargement</strong> : Assurez-vous qu'il soit complètement chargé (max. 2 heures).</p><p><strong>Démarrage</strong> : Maintenez le bouton d’alimentation enfoncé pendant 5 secondes pour activer l’appareil.</p><p><strong>Positionnement</strong> : Tenez l'appareil sur le point PC8 situé dans la paume de votre main. Pour localiser facilement ce point, fermez légèrement le poing : il se trouve à l’endroit où le bout de votre majeur rejoint la paume.</p><p><strong>Réglage de l'intensité</strong> : Ajustez la force en appuyant sur les boutons « + » ou « - » selon vos besoins et pour un confort optimal.</p><p><strong>Arrêt automatique</strong> : L’appareil s’éteint automatiquement après 20 minutes.</p>",
             "page": ""
           }
+        },
+        "item_VX9XVt": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Garantissons-nous que vous ressentirez un effet ?",
+            "content": "<p><strong>Oui, absolument !</strong><br/>Nous sommes tellement convaincus que notre technologie fera la différence pour vous, de plus nous vous offrons une garantie de remboursement de 30 jours. Si vous n'obtenez pas l'effet désiré, nous vous remboursons intégralement, sans poser de questions.</p><p>Vous pouvez facilement effectuer un retour via notre.............ou contacter notre service client à l'adresse <a>..................</a> pour obtenir de l'aide.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "item_CGCGYQ",
         "item_CwhWwm",
-        "item_yAUrAk"
+        "item_yAUrAk",
+        "item_VX9XVt"
       ],
       "name": "Accordion content",
       "settings": {
