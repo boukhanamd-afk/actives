@@ -104,6 +104,38 @@
         "overlay_opacity": 0
       }
     },
+    "video_Wm37GA": {
+      "type": "video",
+      "blocks": {
+        "play_KwLhx7": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_hpM8CQ": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_KwLhx7",
+        "heading_hpM8CQ"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/1219.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 21
+      }
+    },
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
@@ -344,38 +376,6 @@
         "button_text_color": "",
         "accordion_background": "#deeff9",
         "accordion_text_color": ""
-      }
-    },
-    "video_Wm37GA": {
-      "type": "video",
-      "blocks": {
-        "play_KwLhx7": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_hpM8CQ": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_KwLhx7",
-        "heading_hpM8CQ"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/1219.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 21
       }
     },
     "custom_liquid_tfYXdw": {
@@ -962,10 +962,10 @@
     "rich_text_NkmNqi",
     "impact-text",
     "image-with-text-overlay",
+    "video_Wm37GA",
     "before-after-image",
     "featured_product_bL3JW9",
     "accordion_content_DzzQ6r",
-    "video_Wm37GA",
     "custom_liquid_tfYXdw",
     "faq",
     "contact_Te7dYb",
