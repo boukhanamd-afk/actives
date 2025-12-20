@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_7wCEfp": {
-          "type": "message",
-          "settings": {
-            "text": "Announce something here",
-            "url": ""
-          }
-        },
         "message": {
           "type": "message",
           "settings": {
@@ -37,7 +30,6 @@
         }
       },
       "block_order": [
-        "message_7wCEfp",
         "message",
         "message_Gddb8w"
       ],
