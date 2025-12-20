@@ -80,6 +80,11 @@
         "type": "shopify://apps/seoant-ai-seo/blocks/seoant-core/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d",
         "disabled": false,
         "settings": {}
+      },
+      "17198465164502963513": {
+        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
