@@ -678,7 +678,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Aline F.",
             "title": "",
             "content": "<p>On l’utilise à deux avec mon copain, ça nous aide surtout quand on est un peu nerveux.</p>"
@@ -689,7 +689,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Margaux V.",
             "title": "",
             "content": "<p>J’ai remarqué que je m’endors un peu plus vite depuis que je l’ai.</p>"
@@ -700,7 +700,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Mathieu G.",
             "title": "",
             "content": "<p>Les premières fois j’ai dû m’habituer, puis j’ai commencé à sentir un vrai apaisement.</p>"
@@ -711,7 +711,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Léa C.",
             "title": "",
             "content": "<p>Idéal quand je sens une montée de stress, ça me recentre.</p>"
@@ -722,7 +722,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Bastien M.",
             "title": "",
             "content": "<p>Ma femme trouve qu’il l’aide beaucoup, moi un peu moins mais je continue à l’utiliser.</p>"
@@ -733,7 +733,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Emilie S.",
             "title": "",
             "content": "<p>Ça m’aide surtout pendant mes moments d’anxiété. Pas miraculeux, mais utile.</p>"
@@ -744,7 +744,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Jade R.",
             "title": "",
             "content": "<p>Je l’ai pris pour mon fils, ça l’aide à se calmer avant de dormir.</p>"
@@ -766,7 +766,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Adeline X.",
             "title": "",
             "content": "<p>Je l’utilise dans le métro quand je suis tendu, ça m’évite de paniquer.</p>"
@@ -788,7 +788,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Julien S.",
             "title": "",
             "content": "<p>J’ai acheté deux pour mes parents, ils aiment bien le côté relaxant.</p>"
@@ -810,7 +810,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Noah K.",
             "title": "",
             "content": "<p>Ça me calmait déjà un peu, mais après une semaine je sens une vraie différence.</p>"
@@ -821,7 +821,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Jérémie R.",
             "title": "",
             "content": "<p>Ma compagne a de l’anxiété, elle dit que ça l’aide beaucoup le soir.</p>"
@@ -832,7 +832,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Samuel N.",
             "title": "",
             "content": "<p>Je le prends au bureau, ça m’aide à souffler entre deux réunions.</p>"
@@ -843,7 +843,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 3,
             "author": "Antoine Z.",
             "title": "",
             "content": "<p>Je m’attendais à quelque chose de plus fort, mais c’est une bonne aide au quotidien.</p>"
@@ -854,7 +854,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Loris E.",
             "title": "",
             "content": "<p>Je l’utilise en regardant la télé le soir, ça me détend bien.</p>"
@@ -876,7 +876,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Camille W.",
             "title": "",
             "content": "<p>Je sens surtout l’effet quand je suis vraiment stressée.</p>"
@@ -887,7 +887,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Manel P.",
             "title": "",
             "content": "<p>Bonne qualité, simple à utiliser, et ça m’aide lors de mes crises de stress.</p>"
@@ -898,109 +898,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Jibril V.",
             "title": "",
             "content": "<p>J’en ai pris un deuxième pour ma sœur, elle a trouvé que ça lui faisait du bien dès le premier soir.</p>"
-          }
-        },
-        "testimonial_bcbby6": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_p3TrFP": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_MTPmdm": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_WViPEn": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_wEJP8y": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_LQJJ4Y": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_hDnmmq": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_H43CKb": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_D4LaW3": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
         }
       },
@@ -1034,16 +935,7 @@
         "testimonial_aKKzVc",
         "testimonial_w7HTjd",
         "testimonial_9fMEpM",
-        "testimonial_VxpAtY",
-        "testimonial_bcbby6",
-        "testimonial_p3TrFP",
-        "testimonial_MTPmdm",
-        "testimonial_WViPEn",
-        "testimonial_wEJP8y",
-        "testimonial_LQJJ4Y",
-        "testimonial_hDnmmq",
-        "testimonial_H43CKb",
-        "testimonial_D4LaW3"
+        "testimonial_VxpAtY"
       ],
       "name": "Avis clients",
       "settings": {
