@@ -17,9 +17,9 @@
         "newsletter_LnX9dB": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image_width": 120,
             "heading_size": "h3",
-            "title": "Sign up to our newsletter",
+            "title": "Inscrivez-vous pour recevoir nos offres et actualités",
             "content": ""
           }
         },
