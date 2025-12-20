@@ -91,7 +91,7 @@
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
@@ -101,7 +101,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 4
       }
     },
     "video_Wm37GA": {
