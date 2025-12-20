@@ -29,7 +29,7 @@
       "settings": {
         "show_social_media": false,
         "show_payment_icons": false,
-        "show_policy_links": false,
+        "show_policy_links": true,
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
