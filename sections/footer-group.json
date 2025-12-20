@@ -14,8 +14,18 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "newsletter_LnX9dB": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up to our newsletter",
+            "content": ""
+          }
+        },
         "links": {
           "type": "links",
+          "disabled": true,
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
@@ -24,11 +34,12 @@
         }
       },
       "block_order": [
+        "newsletter_LnX9dB",
         "links"
       ],
       "settings": {
         "show_social_media": false,
-        "show_payment_icons": false,
+        "show_payment_icons": true,
         "show_policy_links": true,
         "show_country_selector": true,
         "show_country_flag": true,
