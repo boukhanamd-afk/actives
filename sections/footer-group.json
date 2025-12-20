@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_izmmfP": {
+          "type": "text",
+          "settings": {
+            "title": "Nous contacter",
+            "content": "<p><strong>Service client:</strong><br/>contact@somniflora.com</p><p><strong>Horaire:</strong> du Lundi au Vendredi de 9h à 12h et de 14h à 18h<br/> Samedi et Dimanche de 10h à 12</p>",
+            "enable_follow_on_shop": false
+          }
+        },
         "newsletter_LnX9dB": {
           "type": "newsletter",
           "settings": {
@@ -34,6 +42,7 @@
         }
       },
       "block_order": [
+        "text_izmmfP",
         "newsletter_LnX9dB",
         "links"
       ],
