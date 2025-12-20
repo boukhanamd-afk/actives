@@ -940,7 +940,7 @@
       "name": "Avis clients",
       "settings": {
         "full_width": true,
-        "stack_testimonials": true,
+        "stack_testimonials": false,
         "subheading": "",
         "title": "Avis clients",
         "content": "",
