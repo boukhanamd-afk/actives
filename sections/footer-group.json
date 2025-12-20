@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "links_x8Liz6": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
         "text_izmmfP": {
           "type": "text",
           "settings": {
@@ -42,6 +50,7 @@
         }
       },
       "block_order": [
+        "links_x8Liz6",
         "text_izmmfP",
         "newsletter_LnX9dB",
         "links"
