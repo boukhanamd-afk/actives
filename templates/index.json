@@ -579,10 +579,21 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Thomas P.",
+            "title": "",
+            "content": "<p>Ma copine stresse beaucoup le soir, et ça l’aide à se calmer avant de dormir.</p>"
+          }
+        },
+        "testimonial_h97qeJ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Manu S.",
+            "title": "",
+            "content": "<p>J’aime bien l’utiliser au travail quand je sens la pression monter.</p>"
           }
         },
         "testimonial_pU6CPY": {
@@ -591,9 +602,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Élodie M.",
+            "title": "",
+            "content": "<p>Au début j’étais sceptique, mais finalement ça m’aide vraiment à me poser le soir.</p>"
           }
         },
         "testimonial_8LNXhB": {
@@ -602,16 +613,437 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_yKmmLW": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Élodie M.",
+            "title": "",
+            "content": "<p>Mon mari l’utilise plus que moi, lui dit que ça le détend en quelques minutes.</p>"
+          }
+        },
+        "testimonial_wjkdk3": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Nathalie R.",
+            "title": "",
+            "content": "<p>Je m’en sers surtout avant de dormir, ça m’apaise mais pas tous les jours de la même façon.</p>"
+          }
+        },
+        "testimonial_FhGCUh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_EUGRHN": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_iU6F6H": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_Ae43Cd": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_RmQbMi": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_AxTBV6": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_r4ytL4": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_AhFBRk": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_rkQVPE": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_KBE3gn": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_RVK8YN": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_RFNHq6": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_BDMyKe": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_eBJUhL": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_DLt9H7": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_rH89ty": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_yTxHzy": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_LghbEE": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_TT3c8i": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_qiX94U": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_aKKzVc": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_w7HTjd": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_9fMEpM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joe R.",
+            "title": "",
+            "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_VxpAtY": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_bcbby6": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_p3TrFP": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_MTPmdm": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_WViPEn": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_wEJP8y": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_LQJJ4Y": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_hDnmmq": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_H43CKb": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_D4LaW3": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
             "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
         }
       },
       "block_order": [
         "testimonial_nGdDzA",
+        "testimonial_h97qeJ",
         "testimonial_pU6CPY",
-        "testimonial_8LNXhB"
+        "testimonial_8LNXhB",
+        "testimonial_yKmmLW",
+        "testimonial_wjkdk3",
+        "testimonial_FhGCUh",
+        "testimonial_EUGRHN",
+        "testimonial_iU6F6H",
+        "testimonial_Ae43Cd",
+        "testimonial_RmQbMi",
+        "testimonial_AxTBV6",
+        "testimonial_r4ytL4",
+        "testimonial_AhFBRk",
+        "testimonial_rkQVPE",
+        "testimonial_KBE3gn",
+        "testimonial_RVK8YN",
+        "testimonial_RFNHq6",
+        "testimonial_BDMyKe",
+        "testimonial_eBJUhL",
+        "testimonial_DLt9H7",
+        "testimonial_rH89ty",
+        "testimonial_yTxHzy",
+        "testimonial_LghbEE",
+        "testimonial_TT3c8i",
+        "testimonial_qiX94U",
+        "testimonial_aKKzVc",
+        "testimonial_w7HTjd",
+        "testimonial_9fMEpM",
+        "testimonial_VxpAtY",
+        "testimonial_bcbby6",
+        "testimonial_p3TrFP",
+        "testimonial_MTPmdm",
+        "testimonial_WViPEn",
+        "testimonial_wEJP8y",
+        "testimonial_LQJJ4Y",
+        "testimonial_hDnmmq",
+        "testimonial_H43CKb",
+        "testimonial_D4LaW3"
       ],
       "name": "Avis clients",
       "settings": {
