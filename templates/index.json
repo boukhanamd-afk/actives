@@ -33,7 +33,7 @@
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "enable_parallax": true,
         "image_size": "auto",
         "image": "shopify://shop_images/Brown_and_Beige_Abstract_Shapes_Giveaway_Instagram_Post_6_1259ae78-dad3-46a9-9cec-1138801c97b2.jpg",
