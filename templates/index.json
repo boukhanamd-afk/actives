@@ -107,10 +107,6 @@
     "video_Wm37GA": {
       "type": "video",
       "blocks": {
-        "play_KwLhx7": {
-          "type": "play",
-          "settings": {}
-        },
         "heading_hpM8CQ": {
           "type": "heading",
           "settings": {
@@ -120,7 +116,6 @@
         }
       },
       "block_order": [
-        "play_KwLhx7",
         "heading_hpM8CQ"
       ],
       "name": "Video",
@@ -139,11 +134,6 @@
     "featured_product_bL3JW9": {
       "type": "featured-product",
       "blocks": {
-        "vendor_aJa8Vt": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
         "liquid_LnfLVT": {
           "type": "liquid",
           "settings": {
@@ -246,7 +236,6 @@
         }
       },
       "block_order": [
-        "vendor_aJa8Vt",
         "liquid_LnfLVT",
         "title_Cy3fgt",
         "badges_gUYKjg",
