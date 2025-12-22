@@ -86,20 +86,6 @@
         "type": "shopify://apps/microsoft-clarity/blocks/brandAgents_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
         "disabled": false,
         "settings": {}
-      },
-      "15683396631634586217": {
-        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
-        "disabled": true,
-        "settings": {
-          "button_color": "#4b91c4",
-          "secondary_color": "#ffffff",
-          "ternary_color": "#6a6a6a",
-          "button_icon": "smiley_face",
-          "button_text": "help",
-          "button_horizontal_position": "bottom_right",
-          "button_vertical_position": "higher",
-          "greeting_message": "Bonjour ! Alice à votre service 😊"
-        }
       }
     }
   },
