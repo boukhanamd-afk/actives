@@ -565,17 +565,6 @@
     "testimonials_FGjRMz": {
       "type": "testimonials",
       "blocks": {
-        "testimonial_nGdDzA": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Thomas P.",
-            "title": "",
-            "content": "<p>Ma copine stresse beaucoup le soir, et ça l’aide à se calmer avant de dormir.</p>"
-          }
-        },
         "testimonial_h97qeJ": {
           "type": "testimonial",
           "settings": {
@@ -607,6 +596,17 @@
             "author": "Joe R.",
             "title": "",
             "content": "<p>J’ai commandé deux appareils, un pour moi et un pour ma femme. On a senti un effet assez rapidement.</p>"
+          }
+        },
+        "testimonial_nGdDzA": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Thomas P.",
+            "title": "",
+            "content": "<p>Ma copine stresse beaucoup le soir, et ça l’aide à se calmer avant de dormir.</p>"
           }
         },
         "testimonial_yKmmLW": {
@@ -897,10 +897,10 @@
         }
       },
       "block_order": [
-        "testimonial_nGdDzA",
         "testimonial_h97qeJ",
         "testimonial_pU6CPY",
         "testimonial_8LNXhB",
+        "testimonial_nGdDzA",
         "testimonial_yKmmLW",
         "testimonial_wjkdk3",
         "testimonial_FhGCUh",
