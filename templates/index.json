@@ -200,6 +200,7 @@
         },
         "description_Rkd7iq": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 20,
