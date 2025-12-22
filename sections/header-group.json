@@ -39,7 +39,7 @@
         "cycle_speed": 4,
         "text_size": "text-base",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
+        "scrolling_speed": 12,
         "background": "#4b91c4",
         "background_gradient": "",
         "text_color": "#ffffff"
