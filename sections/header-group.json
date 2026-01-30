@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_jHnRUn": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
@@ -30,10 +37,10 @@
         }
       },
       "block_order": [
+        "message_jHnRUn",
         "message",
         "message_Gddb8w"
       ],
-      "disabled": true,
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
@@ -51,16 +58,16 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/fffff_1192fd49-2156-43fc-b81e-d815108933a8.png",
-        "logo_max_width": 200,
-        "logo_mobile_max_width": 125,
+        "logo": "shopify://shop_images/logo-ezgif.com-png-to-webp-converter.webp",
+        "logo_max_width": 125,
+        "logo_mobile_max_width": 90,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
         "layout": "logo_left_navigation_center",
-        "show_social_media": true,
+        "show_social_media": false,
         "show_locale_selector": true,
         "show_country_selector": true,
         "show_country_flag": true,
